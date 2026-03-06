@@ -6,7 +6,7 @@ on:
       - pre-prod
   pull_request:
     branches:
-      - prod
+      - pre-prod
 
 jobs:
   test:

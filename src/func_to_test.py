@@ -2,7 +2,7 @@ def test_func_1(a, b):
     return a + b
 
 def test_func_2(a):
-    return a + 4
+    return a + 3
 
 if __name__ == "__main__":
     a = int(input("a: "))
